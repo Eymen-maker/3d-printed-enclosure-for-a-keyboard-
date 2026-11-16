@@ -3,7 +3,12 @@
 
 You might need to put the print diagonally as it's quite big.
 
-BOM = filament and a 3d printer as there is noting else to this build.
+# BOM
+
+|Part|Note|
+|---|---|
+|filament| any PLA filament|
+|3D Printer| any 3d printer that has a bigger or the same bed size than Creality Ender 5 S1|
 
 Yeah that's pretty much it.
 
